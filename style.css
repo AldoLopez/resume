@@ -1,0 +1,11 @@
+.center {
+    width: 80%;
+    margin: 0 auto;
+}
+.resume {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+
